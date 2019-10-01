@@ -62,5 +62,93 @@ h1, h2, h3, h4, h5 {
     letter-spacing: 1px;
     margin-bottom: 15px;
 }
-
-/* Your code starts here! */
+.logo {
+	background-color: paleturquoise;
+	position: fixed;
+	margin-left: 730px;
+	margin-bottom: 150px; 
+}
+nav {
+	background-color: paleturquoise;
+	position: fixed;
+	display: inline-block;
+	margin-left: 50px;
+	margin-bottom: 550px;
+	padding: 10px;
+}
+nav a {
+	margin: 30px;
+	font-size: 15px;
+	text-decoration: none;
+	color:grey;
+}
+#innovation {
+	font-size: 70px;
+	width: 10px;
+	text-transform: uppercase;
+	font-family: 'Bangers', cursive;
+	margin-left: 300px;
+	margin-top: 50px;
+	text-align: center;
+}
+#started{
+	border: 1px solid black;
+	margin-left: 325px;
+	margin-top: 30px;
+	margin-right: 175px;
+	margin-bottom: 50px;
+	padding: 10px 35px 10px 35px;
+	width: 160px;
+}
+#inn-st {
+	display: inline-block;
+}
+#features {
+	margin-left: 100px;
+	margin-bottom: 50px;
+	width: 40%;
+	display: inline-block;
+}
+#about {
+	width: 40%;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.middle-img {
+	margin-left: 100px;
+	margin-bottom: 50px
+}
+#services {
+	margin-left: 100px;
+	margin-bottom: 50px;
+	width: 30%;
+	display: inline-block;
+}
+#product {
+	width: 30%;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+#vision {
+	width: 30%;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+hr { 
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: inset;
+  border-width: 1px;
+} 
+#contact{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+footer{
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-bottom: 50px;
+}
